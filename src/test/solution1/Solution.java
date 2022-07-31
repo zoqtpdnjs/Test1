@@ -1,4 +1,4 @@
-package test;
+package test.solution1;
 
 public class Solution {
     public int[] solution(int[] answers) {
